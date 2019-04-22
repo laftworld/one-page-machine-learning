@@ -14,20 +14,17 @@ github_username:  laftworld
 #facebook_app_id: 12345
 
 # Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
+header_type: drawer  # values [ drawer, default ]
+post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: Open tutorials (Korean)
+    link: https://opentutorials.org/module/3653
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
-  option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+    name: Youtube (Korean)
+    link: https://www.youtube.com/watch?v=krK8N5omujc&list=PLEkZgsocS9J02K1j-5GhYQiYVqxGh3hQ7
 
 disqus: true
 disqus_shortname: 'gdgmanagua'
