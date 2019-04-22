@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title:  "Knowledge distillation"
 date:   2019-04-21 18:59:00 +0800
-categories: research
+categories: one-page-machine-learning
 ---
 Keywords: machlne-learning, knowledge distillation
 
