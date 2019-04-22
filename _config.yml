@@ -27,7 +27,7 @@ more_vert:
     link: https://www.youtube.com/watch?v=krK8N5omujc&list=PLEkZgsocS9J02K1j-5GhYQiYVqxGh3hQ7
 
 disqus: true
-#disqus_shortname: 'gdgmanagua'
+disqus_shortname: 'gdgmanagua'
 
 # Build settings
 markdown: kramdown
