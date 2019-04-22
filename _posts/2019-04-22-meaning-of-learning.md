@@ -27,10 +27,5 @@ After more long, long years, when utopia comes, both building and running proced
 
 <!---`Original paper` [Original paper][cite1] --->
 
-
-
-
-
-
-[fig1]: /one-page-machine-learning/img/img_ml/what-does-learning-mean-in-ml.png "What does learning mean in machine learning"
+[fig1]: /one-page-machine-learning/assets/img/img_ml/what-does-learning-mean-in-ml.png "What does learning mean in machine learning"
 <!---[cite1]: https://arxiv.org/pdf/1503.02531.pdf --->

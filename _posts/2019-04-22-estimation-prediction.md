@@ -29,9 +29,5 @@ Though the figure illustrates a naive parameter p which is easy to know. More ad
 <!---`Original paper` [Original paper][cite1] --->
 
 
-
-
-
-
 [fig1]: /one-page-machine-learning/assets/img/img_ml/estimation_and_prediction.png "Estimation and prediction"
 <!---[cite1]: https://arxiv.org/pdf/1503.02531.pdf --->

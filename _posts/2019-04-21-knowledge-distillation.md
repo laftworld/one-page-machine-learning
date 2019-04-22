@@ -27,5 +27,5 @@ Keywords: machlne-learning, knowledge distillation
 
 
 
-[fig1]: /one-page-machine-learning/img/img_ml/knowledge-distillation.png "Knowledge distillation"
+[fig1]: /one-page-machine-learning/assets/img/img_ml/knowledge-distillation.png "Knowledge distillation"
 [cite1]: https://arxiv.org/pdf/1503.02531.pdf

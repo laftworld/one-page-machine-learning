@@ -41,5 +41,5 @@ To find the point where to stop learning, 𝑀 exploits not only training data b
 
 
 
-[fig1]: /one-page-machine-learning/img/img_ml/known-unknown.png "Model tuning"
+[fig1]: /one-page-machine-learning/assets/img/img_ml/known-unknown.png "Model tuning"
 <!---[cite1]: https://arxiv.org/pdf/1503.02531.pdf --->
