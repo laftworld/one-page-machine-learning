@@ -26,7 +26,7 @@ more_vert:
     name: Youtube (Korean)
     link: https://www.youtube.com/watch?v=krK8N5omujc&list=PLEkZgsocS9J02K1j-5GhYQiYVqxGh3hQ7
 
-disqus: false
+disqus: true
 #disqus_shortname: 'gdgmanagua'
 
 # Build settings
