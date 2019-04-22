@@ -1,49 +1,81 @@
-# [Air Raya Group](http://www.airrayagroup.com/)
+# jekyll-mdl
+> A Jekyll theme based in Google Material Design Lite library.
 
-[Sci blog](https://yourfreebies.github.io/sciblog/) is jekyll theme created by [Air Raya Group](http://www.airrayagroup.com/).
+## Demo
 
-[demo](https://yourfreebies.github.io/sciblog/) 
+You can see the online demo here [http://gdgmanagua.github.io/jekyll-mdl/](http://gdgmanagua.github.io/jekyll-mdl/)
 
-Unless otherwise noted, this theme is released under MIT licence. 
+![Demo](https://raw.githubusercontent.com/gdg-managua/jekyll-mdl/master/jekyll-mdl-screen.png)
 
-## Credits
-Thank you so much for providing free resources and inspirations
-* [getbootstrap](http://getbootstrap.com/)
-* [jekyll](https://jekyllrb.com/)
-* [startboostrap](http://startbootstrap.com/)
-* [noisetexturegenerator](http://www.noisetexturegenerator.com/)
-* [yellow blue by Christos Alatzas](http://demo-yb.yellowblue.eu/)
+## Sites using jekyll-mdl
 
-## Getting Started
+If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send us a pull request, we will be happy to know where the theme has been used.
 
-To use this template, download it [here] (https://github.com/airrayagroupwebdesign/sciblog/archive/master.zip). Contact our team for customization and support. Rates may apply.
-To install *jekyll* and *this theme*
+- [prosa100.github.io](http://prosa100.github.io/)
+- [fandekasp.github.io](http://fandekasp.github.io/)
+- [webiphany.com](http://webiphany.com)
+- [siempredelao.github.io](http://siempredelao.github.io/)
+- [sparker0i.github.io](http://sparker0i.github.io/)
+- [kris27mc.github.io](https://kris27mc.github.io)
 
-1. type on search `cmd.exe` or command prompt
-2. In `C:\Users\my pc\desktop\blog>`
-3. Install ruby by going to `http://rubyinstaller.org/downloads/` to download
-4. When installing ruby, make sure to check `add ruby executables to your PATH`
-5. Install jekyll `C:\Users\my pc\desktop\blog\gem install jekyll`
-6. Create jekyll theme  `C:\Users\my pc\desktop\blog\jekyll new my-awesome-site`
-7. Go to blog my-awesome-site `C:\Users\my pc\desktop\blog>cd my-awesome-site`
-8. Preview your blog `C:\Users\my pc\desktop\blog\my-awesome-site>jekyll serve`
-9. Now browse to `http://localhost:4000`
-10. Alternatively, you can download my jekyll theme here `https://github.com/airrayagroupwebdesign/sciblog`
-11. click download zip and unzip it.
-12. You can copy and paste everything inside to blog folder in desktop such as `C:\Users\my pc\desktop\blog>`
-13. Install jekyll-paginate  `C:\Users\my pc\desktop\blog>gem install jekyll-paginate`
-14. Preview the blog and make changes `C:\Users\my pc\desktop\blog>jekyll serve`
-15. Now browse to `http://localhost:4000`
+## Custom Themes
 
-## Bugs and Issues
+If you don't want the default site colors, you can create custom themes for the site in the [mdl theme creator](http://www.getmdl.io/customize/index.html). The site will create a custom css, something like this:
 
-Have a bug or an issue with this template? Please contact our team airrayagroup@gmail.com or fork and contribute.
+     <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.teal-green.min.css" />
 
-## Creator
+Now add this in the _includes/head.html file, under the main css and enjoy your new theme.
 
-Sci blog theme was created by and is maintained by **Air raya Group Web Design team**, at [Air Raya Group](http://www.airrayagroup.com/).
+## Post Options
+
+All the post, require an image and maybe an author and declare if the post is highlighted or not, the image are used in the cards and the autor used for the footer in the cards, the highlighted post is used for make this 12 cols and not a card, if you want to use the custom images and set the author and the highlight post, just add a new key in the post config, something like this:
+
+    ---
+    layout: post
+    title:  "Welcome to jekyll-mdl"
+    date:   2015-07-11 11:34:20
+    categories: jekyll
+    highlight: true
+    image: http://www.wchs4pets.org/wp-content/uploads/2015/03/cat_1-jpg.jpg
+    author: Google Developers Group Managua
+    ---
+
+## Layout Configuration
+You can setup 4 types of layout
+
+- Fixed Nav + Simple Card Grid
+- Fixed Nav + Highlight Post + Card Grid
+- Drawer Nav + Simple Card Grid
+- Drawer Nav + Highlight Post + Card Grid
+
+For use this in the [_config.yml](https://github.com/gdg-managua/jekyll-mdl/blob/master/_config.yml) select the type of layout, rebuild the website and voilà :smile:
+
+## Contributing
+If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps
+
+    # Fork this repository
+    # Clone your fork
+    jekyll serve --watch
+
+    git checkout -b feature_branch
+    # Implement your feature and tests
+    git add . && git commit
+    git push -u origin feature_branch
+    # Send a pull request for your feature branch
+
+## Team
+[![Oscar Cortez](https://avatars.githubusercontent.com/u/2553459?v=3&s=100)](http://github.com/oscarmcm) | [![Byron Corrales](https://avatars.githubusercontent.com/u/99616?v=3&s=100)](https://github.com/byroncorrales)
+---|---
+[Oscar Cortez](http://github.com/oscarmcm) | [Byron Corrales](https://github.com/byroncorrales)
+Project Lead | Contributor
+
+## License
+Licensed under the Apache 2.0 license.
+
+See the [LICENSE](https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md) file for more details.
+
+Copyright © 2015 [Google Developers Group Managua](http://www.gdgmanagua.org).
 
 
-## Copyright and License
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gdg-managua/jekyll-mdl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Copyright 2015 AIR RAYA GROUP. The work is licenced under MIT[](https://github.com/airrayagroupwebdesign/sciblog/blob/master/LICENSE) license.
