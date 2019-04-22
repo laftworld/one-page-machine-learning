@@ -2,7 +2,8 @@
 layout: post
 title:  "Model tuning in parametric approach"
 date:   2019-04-22 18:28:00 +0800
-categories: one-page-machine-learning
+categories: blog
+tags: [one-page-machine-learning, research]
 ---
 Keywords: machlne-learning, basic, parametric approach
 
