@@ -1,6 +1,5 @@
 ---
 layout: post
-mathjax: true
 title:  "Estimation and prediction"
 date:   2019-04-22 18:34:00 +0800
 categories: one-page-machine-learning
