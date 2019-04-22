@@ -21,8 +21,6 @@ The left part of the figure depicts the parameter estimation, while the right pa
 
 Though the figure illustrates a naive parameter p which is easy to know. More advanced and complex parametric models are still based on this concept of estimation and prediction.
 
-
-
 <!---`BibTeX` --->
 
 
@@ -33,5 +31,5 @@ Though the figure illustrates a naive parameter p which is easy to know. More ad
 
 
 
-[fig1]: /one-page-machine-learning/img/img_ml/estimation_and_prediction.png "Estimation and prediction"
+[fig1]: /one-page-machine-learning/assets/img/img_ml/estimation_and_prediction.png "Estimation and prediction"
 <!---[cite1]: https://arxiv.org/pdf/1503.02531.pdf --->
