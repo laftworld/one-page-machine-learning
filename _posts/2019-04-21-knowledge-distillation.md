@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title:  "Knowledge distillation"
 date:   2019-04-21 18:59:00 +0800
-categories: one-page-machine-learning
+categories: [one-page-machine-learning, research]
 ---
 Keywords: machlne-learning, knowledge distillation
 
@@ -24,5 +24,5 @@ Keywords: machlne-learning, knowledge distillation
 
 
 
-[fig1]: /img/img_ml/knowledge-distillation.png "Knowledge distillation"
+[fig1]: /one-page-machine-learning/img/img_ml/knowledge-distillation.png "Knowledge distillation"
 [cite1]: https://arxiv.org/pdf/1503.02531.pdf
