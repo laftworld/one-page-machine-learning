@@ -3,7 +3,9 @@ layout: post
 title:  "Model tuning in parametric approach"
 date:   2019-04-22 18:28:00 +0800
 categories: blog
+author: Won Eui Eric HONG
 tags: [one-page-machine-learning, research]
+image: http://laftworld.github.io/one-page-machine-learning/assets/img/img_ml/known-unknown.png
 ---
 Keywords: machlne-learning, basic, parametric approach
 

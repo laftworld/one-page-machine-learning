@@ -4,6 +4,7 @@ title:  "Estimation and prediction"
 date:   2019-04-22 18:34:00 +0800
 categories: blog
 tags: [one-page-machine-learning, research]
+author: Won Eui Eric HONG
 image: http://laftworld.github.io/one-page-machine-learning/assets/img/img_ml/estimation_and_prediction.png
 ---
 Keywords: machlne-learning, basic, estimation, prediction

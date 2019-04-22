@@ -4,7 +4,9 @@ mathjax: true
 title:  "What does learning mean in machine learning?"
 date:   2019-04-22 18:19:00 +0800
 categories: blog
+author: Won Eui Eric HONG
 tags: [one-page-machine-learning, research]
+image: http://laftworld.github.io/one-page-machine-learning/assets/img/img_ml/what-does-learning-mean-in-ml.png
 ---
 Keywords: machlne-learning, basic
 

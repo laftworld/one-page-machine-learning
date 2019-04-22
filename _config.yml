@@ -7,7 +7,7 @@ url: "https://laftworld.github.io" # the base hostname & protocol for your site
 author: laftworld
 #twitter_username: jekyllrb
 github_username:  laftworld
-#facebook_username: jekyll
+facebook_username: woneui.hong
 #google_play: 'GDGX'
 #google_plus_com: '109485346959707049693'  # Community link
 #google_plus_per: '+GDGManagua'  #Personal link
@@ -15,7 +15,7 @@ github_username:  laftworld
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
+post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:

@@ -4,7 +4,9 @@ mathjax: true
 title:  "Knowledge distillation"
 date:   2019-04-21 18:59:00 +0800
 categories: blog
+author: Won Eui Eric HONG
 tags: [one-page-machine-learning, research]
+image: http://laftworld.github.io/one-page-machine-learning/assets/img/img_ml/knowledge-distillation.png
 ---
 Keywords: machlne-learning, knowledge distillation
 
